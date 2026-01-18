@@ -17,4 +17,4 @@ This repository contains selected outputs of a collaborative engineering design 
 ## Collaboration
 Developed collaboratively as part of an undergraduate Management Engineering design project.
 
-This repository is shared for academic and professional portfolio purposes.
+> This repository is shared for academic and professional portfolio purposes.
